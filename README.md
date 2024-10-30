@@ -60,5 +60,9 @@ After training, the model achieves an accuracy of approximately X% on the test d
 - Enable continuous learning by updating the model with new labeled data.
 - Add a web interface using **Flask** or **Django** for easier user interaction.
 
+## Screenshot of project
+![Input Screen](images/Email-Spam.jpg)
+
+
 ## Contributing
 Feel free to submit issues or pull requests. All contributions are welcome!
